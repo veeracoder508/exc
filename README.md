@@ -1,4 +1,4 @@
-[**Full Changelog**](https://github.com/veeracoder508/exc/commits/0.0.0.1)
+[**Full Changelog**](https://github.com/veeracoder508/exc/commits/0.0.0.1)<br>
 **serial number**: <img width="15" height="15" alt="exc_icon" src="https://github.com/user-attachments/assets/fcddcc92-6ce1-4a6c-a776-8287e1b0e260"/> *0.0.0.1[24082025]*
 
 # <img width="25" height="25" alt="exc_icon" src="https://github.com/user-attachments/assets/fcddcc92-6ce1-4a6c-a776-8287e1b0e260"/> exc1 (0.0.0.1[24082025])
