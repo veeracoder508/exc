@@ -1,10 +1,10 @@
 [**Full Changelog**](https://github.com/veeracoder508/exc/commits/0.0.0.1)
-**serial number**: *0.0.0.1[24082025]*
+**serial number**: <img width="15" height="15" alt="exc_icon" src="https://github.com/user-attachments/assets/fcddcc92-6ce1-4a6c-a776-8287e1b0e260"/> *0.0.0.1[24082025]*
 
-# exc1 (0.0.0.1[24082025])
+# <img width="25" height="25" alt="exc_icon" src="https://github.com/user-attachments/assets/fcddcc92-6ce1-4a6c-a776-8287e1b0e260"/> exc1 (0.0.0.1[24082025])
 this is a compiler written in python and has an editor and a interpreter with it.
 
-## exc1 editor (0.0.0.1e[24082025]
+## <img width="25" height="25" alt="exc_icon" src="https://github.com/user-attachments/assets/fcddcc92-6ce1-4a6c-a776-8287e1b0e260"/> exc1 editor (0.0.0.1e[24082025]
 this is the editor that comes with the package.
 
 ### at a glams
@@ -48,3 +48,11 @@ this has syntax highlighting.
 
 **a full break through**
 <img width="1002" height="632" alt="exc1" src="https://github.com/user-attachments/assets/bc71ac9f-0896-43b5-a6b9-bb8a32f9d4b5" />
+
+## <img width="25" height="25" alt="exc_icon" src="https://github.com/user-attachments/assets/fcddcc92-6ce1-4a6c-a776-8287e1b0e260"/> exc1 compiler (0.0.0.1c[24082025]
+```powershell
+C:\path\path>./compiler
+```
+it ask for `1]compile or run`, `2] list`
+if 1 is entered `>>>1`
+it ask for `1]compile .exc1`,  `2]run .excbite1`, `3]do both`
